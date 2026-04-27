@@ -5,7 +5,7 @@ Blood Vessel Blockage Detector Backend
 Run: python app.py
 API will start at: http://localhost:5000
 """
-
+ 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import numpy as np
