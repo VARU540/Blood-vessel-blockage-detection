@@ -335,7 +335,7 @@ save_data = {
     'scaler_std':    scaler.scale_.tolist(),
     'all_cols':      ALL_COLS,
     'orig_cols':     ORIG_COLS,
-    'metrics': {
+    'metrics': 
         'mlp_test_acc': float(test_acc),
         'vae_test_acc': float(vae_acc),
         'ens_test_acc': float(ens_acc),
