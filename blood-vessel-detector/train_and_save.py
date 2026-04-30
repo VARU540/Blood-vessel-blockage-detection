@@ -1,6 +1,6 @@
 """
 train_and_save.py
-Run this ONCE to train all models and save weights.
+Run this ONCE to train all models and save weights. 
 Usage: python3 train_and_save.py
 """
 
