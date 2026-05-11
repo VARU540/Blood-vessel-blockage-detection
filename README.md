@@ -1,6 +1,6 @@
 # 🩸 Blood Vessel Blockage Detector   
 
-AI-powered medical analysis system using MLP + VAE ensemble models. 
+AI-powered medical analysis system using MLP + VAE ensemble models.  
 
 ---
 
