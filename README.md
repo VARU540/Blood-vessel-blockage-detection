@@ -5,7 +5,7 @@ AI-powered medical analysis system using MLP + VAE ensemble models.
 ---
 
 ## 📁 Project Structure
-
+   
 ```
 blood-vessel-detector/
 ├── index.html          ← Frontend UI (open in browser)
