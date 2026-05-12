@@ -11,7 +11,7 @@ blood-vessel-detector/
 ├── index.html          ← Frontend UI (open in browser)
 ├── style.css           ← Styles
 ├── script.js           ← Frontend logic (calls Flask API)
-├── app.py              ← Flask API server
+├── app.py              ← Flask API server 
 ├── train_and_save.py   ← Train models & save weights (run ONCE)
 ├── requirements.txt    ← Python dependencies
 └── model_weights/
