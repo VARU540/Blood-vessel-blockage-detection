@@ -72,4 +72,4 @@ Open `index.html` in your browser. You can:
 - The Flask server must be running before using the frontend
 - If the server is not running, the app falls back to a local simulation mode
 - The `model_weights/` folder is created automatically during training
-- the flasck
+  
