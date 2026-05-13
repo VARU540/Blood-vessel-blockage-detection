@@ -1,75 +1,148 @@
-# 🩸 Blood Vessel Blockage Detector    
+# 🩸 Blood Vessel Blockage Detection System
 
-AI-powered medical analysis system using MLP + VAE ensemble models.  
-
----
-
-## 📁 Project Structure
-   
-```
-blood-vessel-detector/
-├── index.html          ← Frontend UI (open in browser)
-├── style.css           ← Styles
-├── script.js           ← Frontend logic (calls Flask API)
-├── app.py              ← Flask API server 
-├── train_and_save.py   ← Train models & save weights (run ONCE)
-├── requirements.txt    ← Python dependencies
-└── model_weights/
-    └── weights.pkl     ← Generated after training (auto-created)
-```
+AI-powered medical analysis system for detecting possible blood vessel blockage using clinical vascular parameters and ensemble deep learning models.
 
 ---
 
-## 🚀 Setup & Run (VS Code)
+## 🚀 Features
 
-### Step 1 — Install Python dependencies
-Open a terminal in VS Code and run:
+* 👨‍⚕️ Patient Information Management
+* 🧠 AI-Based Ensemble Analysis
+* 📊 Clinical Score Calculation
+* 🔬 MLP Deep Neural Network Prediction
+* ⚡ VAE Anomaly Detection
+* 📈 Blockage Probability Visualization
+* 📄 Professional Medical Report Generation
+* 🖨️ Print / Save PDF Support
+
+---
+
+## 🛠️ Technologies Used
+
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* Flask
+* Machine Learning
+* Deep Learning
+
+---
+
+# 📸 Project Screenshots
+
+## 🧾 Patient Information Page
+
+<img src="./screenshots/patient-info.png" width="1000">
+
+---
+
+## 📊 Clinical Parameters Input
+
+<img src="./screenshots/clinical-parameters.png" width="1000">
+
+---
+
+## 🤖 AI Analysis Results
+
+<img src="./screenshots/analysis-results.png" width="1000">
+
+---
+
+## 🧠 Model Predictions
+
+<img src="./screenshots/model-predictions.png" width="1000">
+
+---
+
+## 📈 Clinical Score Breakdown
+
+<img src="./screenshots/clinical-score.png" width="1000">
+
+---
+
+## 📋 Feature Status Table
+
+<img src="./screenshots/feature-status.png" width="1000">
+
+---
+
+## 📄 Generated Patient Report
+
+<img src="./screenshots/patient-report.png" width="1000">
+
+---
+
+## 📑 Final Medical Report
+
+<img src="./screenshots/final-report.png" width="1000">
+
+---
+
+# 📂 Project Structure
+
+```bash
+Blood-vessel-blockage-detection/
+│
+├── app.py
+├── templates/
+├── static/
+├── model/
+├── screenshots/
+├── README.md
+└── requirements.txt
+```
+
+---
+
+# ⚙️ Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/VARU540/Blood-vessel-blockage-detection.git
+```
+
+## Navigate to Project Folder
+
+```bash
+cd Blood-vessel-blockage-detection
+```
+
+## Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 2 — Prepare your dataset
-Place your `final.csv` file in the project root folder.
+## Run Application
 
-The CSV must contain these columns:
-- `peak_systolic_velocity`
-- `resistive_index`
-- `blood_flow_velocity`
-- `avg_temperature`
-- `temperature_difference`
-- `cold_spot_area_percent`
-- `heart_rate`
-- `pulse_amplitude`
-- `pulse_transit_time`
-- `hrv`
-
-### Step 3 — Train the models (run ONCE)
-```bash
-python train_and_save.py
-```
-This creates `model_weights/weights.pkl`. You only need to do this once.
-
-### Step 4 — Start the Flask API server
 ```bash
 python app.py
 ```
-The API will start at: **http://localhost:5000**
-
-### Step 5 — Open the frontend
-Open `index.html` in your browser. You can:
-- Use VS Code's **Live Server** extension (right-click → Open with Live Server)
-- Or simply double-click `index.html` to open it directly in a browser
 
 ---
 
-## 🔧 VS Code Extensions Recommended
-- **Python** (ms-python.python)
-- **Live Server** (ritwickdey.liveserver)
+# 📌 Future Enhancements
+
+* Real-time Doppler Ultrasound Integration
+* Advanced CNN-Based Detection
+* Cloud-Based Patient Database
+* Doctor Dashboard
+* Mobile Application Support
+* AI Explainability Reports
 
 ---
 
-## ⚠️ Notes
-- The Flask server must be running before using the frontend
-- If the server is not running, the app falls back to a local simulation mode
-- The `model_weights/` folder is created automatically during training
-  
+# 👨‍💻 Author
+
+### Varun Chaudhari
+
+* GitHub: [https://github.com/VARU540](https://github.com/VARU540)
+* LinkedIn: Add your LinkedIn profile here
+
+---
+
+# ⭐ If you like this project
+
+Give this repository a ⭐ on GitHub.
