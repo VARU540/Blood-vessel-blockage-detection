@@ -39,7 +39,7 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 
 ## 📊 Clinical Parameters Input
 
-<img src="./screenshots/clinical-parameters.png" width="1000">
+<img src="./SS/Screenshot (289).png" width="1000">
 
 ---
 
