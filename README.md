@@ -45,7 +45,7 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 
 ## 🤖 AI Analysis Results
 
-<img src=".SS/Screenshot (293).png" width="1000">
+<img src="./SS/Screenshot (293).png" width="1000">
 
 
 
@@ -54,7 +54,7 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 
 ## 🧠 Model Predictions
 
-<img src="./screenshots/model-predictions.png" width="1000">
+<img src="./SS/Screenshot (294).png" width="1000">
 
 ---
 
