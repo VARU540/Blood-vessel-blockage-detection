@@ -78,7 +78,7 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 
 ## 📑 Final Medical Report
 
-<img src="./screenshots/final-report.png" width="1000">
+<img src="./SS/Screenshot (297).png" width="1000">
 
 ---
 
