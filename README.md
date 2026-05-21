@@ -60,7 +60,7 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 
 ## 📈 Clinical Score Breakdown
 
-<img src="./screenshots/clinical-score.png" width="1000">
+<img src="./SS/Screenshot (295).png" width="1000">
 
 ---
 
