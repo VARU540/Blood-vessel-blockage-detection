@@ -3,6 +3,82 @@
 AI-powered medical analysis system for detecting possible blood vessel blockage using clinical vascular parameters and ensemble deep learning models.
 
 ---
+---
+
+# 🚀 Project Development Phases
+
+## 🔹 Phase 1: Dataset Collection & Exploration
+- Collected medical imaging datasets related to blood vessel scans.
+- Performed Exploratory Data Analysis (EDA).
+- Analyzed image quality, dimensions, and class distribution.
+- Identified blocked and non-blocked vessel patterns.
+
+### Tasks Performed
+- Dataset importing
+- Data visualization
+- Image inspection
+- Statistical analysis
+
+---
+
+## 🔹 Phase 2: Data Preprocessing
+- Improved image quality for better model performance.
+- Removed noise and enhanced vessel structures.
+- Resized and normalized images.
+
+### Techniques Used
+- Image normalization
+- Noise reduction
+- Contrast enhancement
+- Image resizing
+- Data augmentation
+
+---
+
+## 🔹 Phase 3: Data Labeling & Annotation
+- Classified images into blockage and non-blockage categories.
+- Prepared labeled datasets for supervised learning.
+
+### Objectives
+- Accurate labeling
+- Dataset balancing
+- Annotation verification
+
+---
+
+## 🔹 Phase 4: Deep Learning Model Selection
+- Evaluated multiple CNN architectures for medical image classification.
+- Selected the best-performing model for vessel blockage detection.
+
+### Models Explored
+- CNN
+- VGG16
+- ResNet
+- Transfer Learning models
+
+---
+
+## 🔹 Phase 5: Model Training & Evaluation
+- Trained the deep learning model using preprocessed data.
+- Evaluated model performance using medical imaging metrics.
+
+### Evaluation Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
+
+### Training Features
+- Epoch optimization
+- Validation monitoring
+- Overfitting reduction
+
+---
+
+## 🔹 Phase 6: System Integration & Deployment
+- Integrated the trained model into a user-friendly application.
+- Designed workflow for real-time prediction.
 
 ## 🚀 Features
 
