@@ -66,7 +66,7 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 
 ## 📋 Feature Status Table
 
-<img src="./screenshots/feature-status.png" width="1000">
+<img src="./SS/Screenshot (292).png" width="1000">
 
 ---
 
