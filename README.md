@@ -8,7 +8,7 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 # 🚀 Project Development Phases
  
 ## 🔹 Phase 1: Dataset Collection & Exploration 
-- Collected medical imaging datasets related to blood vessel scans.
+- Collected medical imaging datasets related to blood vessel scans. 
 - Performed Exploratory Data Analysis (EDA).
 - Analyzed image quality, dimensions, and class distribution.
 - Identified blocked and non-blocked vessel patterns.
