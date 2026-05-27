@@ -1,6 +1,6 @@
 # 🩸 Blood Vessel Blockage Detection System 
 
-AI-powered medical analysis system for detecting possible blood vessel blockage using clinical vascular parameters and ensemble deep learning models.
+AI-powered medical analysis system for detecting possible blood vessel blockage using clinical vascular parameters and ensemble deep learning models. 
  
 --- 
 ---
