@@ -54,9 +54,9 @@ AI-powered medical analysis system for detecting possible blood vessel blockage 
 
 ### Models Explored
 - CNN
-- VGG16
-- ResNet
-- Transfer Learning models
+- VAE
+- MLP
+- EMBEDDING SYSTEM 
 
 ---
 
